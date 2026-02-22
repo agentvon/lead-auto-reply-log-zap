@@ -17,7 +17,7 @@ Many small businesses struggle to respond quickly to inquiries and maintain an o
 3. **Action:** A personalized auto-reply email is sent to the lead.    
 
 ## Screenshots
-See `/screenshots` folder
+See `/screenshots` folder ![Trigger and Action Steps](screenshots/lead-auto-reply-log.png)
 
 ## Notes on Customization
 - You can replace Google Forms with Typeform, Jotform, or Webflow Forms.  
