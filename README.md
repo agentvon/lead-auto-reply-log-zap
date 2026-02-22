@@ -17,7 +17,20 @@ Many small businesses struggle to respond quickly to inquiries and maintain an o
 3. **Action:** A personalized auto-reply email is sent to the lead.    
 
 ## Screenshots
-![Trigger and Actions Steps](lead-auto-reply-log.png)
+AI Workflow
+
+![Trigger and Actions Steps](screenshots/lead-auto-reply-log.png)
+
+Google Form
+![Trigger and Actions Steps](screenshots/lead-auto-reply-log-form.png)
+Note:The ‘Get link’ option appears because I’ve already submitted a response. New users who haven’t responded yet will see a ‘Submit’ button instead.
+
+Google Sheets
+![Trigger and Actions Steps](screenshots/lead-auto-reply-log-table.png)
+
+
+Gmail Auto-reply
+![Trigger and Actions Steps](screenshots/lead-auto-reply-log-reply.png)
 
 ## Notes on Customization
 - You can replace Google Forms with Typeform, Jotform, or Webflow Forms.  
